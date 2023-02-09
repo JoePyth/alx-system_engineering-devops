@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ah -recurse
+ls -la . .. /boot
